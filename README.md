@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" styles="height:30px; width:30px" alt="iDetect logo" />
+  <img src="logo.png" styles="height:120px; width:auto" alt="iDetect logo" />
 </p>
 
 <h1 align="center">iDetect: Investor Mood Detection for Job Creation</h1>
