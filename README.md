@@ -27,6 +27,7 @@
 This project uses **AffectNet**, a large-scale facial expression dataset.
 
 - **Source:** [AffectNet on Kaggle](https://www.kaggle.com/datasets/mstjebashazida/affectnet)
+- **YouTube Video** [YouTube](https://www.youtube.com/watch?v=7sc54doB2MQ)
 - **Classes:**  
   - **Approachable (1):** Happy, Neutral  
   - **Not approachable (0):** Angry, Contempt
