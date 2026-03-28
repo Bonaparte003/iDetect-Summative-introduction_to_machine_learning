@@ -68,7 +68,7 @@ A GPU is recommended for the deep learning sections; the notebook is set up for 
 
 1. Clone the repository and open the notebook:
    ```bash
-   git clone <your-repo-url>
+   git clone <url>
    cd iDetect-Summative-introduction_to_machine_learning
    ```
 2. Download [AffectNet from Kaggle](https://www.kaggle.com/datasets/mstjebashazida/affectnet) and place the data (e.g. in an `AffectNet/` folder) or upload to Google Drive.
